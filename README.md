@@ -32,7 +32,7 @@ The Factory Campaign Contract allows users to create new Campaign Contracts, eac
 
 3. Contributors vote on expenditure requests, democratically deciding whether the project owner can spend funds as proposed.
 
-4. Upon receiving a majority of favorable votes, the request is finalized, and the owner can execute the expenditure according to the project plan.
+4. Upon receiving a majority of favorable votes, the request is finalized and the owner can execute the expenditure according to the project plan.
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ To get started with this decentralized crowdfunding platform, you'll need:
 
 1. Clone the project repository to your local machine.
 ```shell
-git clone repository-url
+git clone https://github.com/CREPIC21/kickoff-campaign
 ```
 
 2. Initialize your project and install the required Node.js packages by running the following commands in your project's root directory:
