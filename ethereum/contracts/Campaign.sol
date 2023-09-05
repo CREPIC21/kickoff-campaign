@@ -179,4 +179,8 @@ contract Campaign {
             request.approvalCount
         );
     }
+
+    function isApprover(address _address) public view returns (bool) {
+        return approvers[_address];
+    }
 }

@@ -55,6 +55,8 @@ git clone https://github.com/CREPIC21/kickoff-campaign
 ```shell
 npm init
 npm install ganache-cli mocha solc@0.8.19 fs-extra web3
+npm install @truffle/hdwallet-provider
+npm install dotenv
 ```
 
 3. Compile the contracts:
